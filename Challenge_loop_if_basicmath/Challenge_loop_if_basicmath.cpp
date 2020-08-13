@@ -4,7 +4,7 @@
 int main()
 {
     double i, j;
-    double a, b, avg, avg2, n, n2;
+    double a, b, avg=0, avg2, n, n2;
     double sd, sd2, sd3, sd4;
     double sum = 0, sum2 = 0, sum3 = 0, sum4 = 0;
     scanf_s("%lf %lf", &a, &b);
